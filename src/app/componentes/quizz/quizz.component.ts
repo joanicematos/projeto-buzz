@@ -32,7 +32,6 @@ export class QuizzComponent {
       this.questionIndex = 0
       this.questionMaxIndex = this.questions.length
 
-      console.log(quizz_questions)
       console.log(this.questionIndex)
       console.log(this.questionMaxIndex)
     }

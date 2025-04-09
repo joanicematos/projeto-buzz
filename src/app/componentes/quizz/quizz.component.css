@@ -43,8 +43,11 @@
     border-radius:  8px;
     border: 1px solid #5cbf2a;
     width: 50%;
+    background-color: #4224d9;
     display: inline-block;
     cursor: pointer;
+    margin-top: 10px;
+    margin-right: 5px;
     color: #ffffff;
     font-family: Arial;
     font-size: 20px;
