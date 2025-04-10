@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
-  "questions":[
+  "title": "Você seria o salvador ou o caos do mundo?",
+  "questions": [
     {
-      "id":1,
-      "question": "Qual super poder você escolheria ?",
-      "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+      "id": 1,
+      "question": "Se acordasse com um superpoder, o que faria primeiro?",
+      "options": [
+        { "id": 1, "name": "Testaria meus raios em uma montanha… só pra ver o estrago!", "alias": "A" },
+        { "id": 2, "name": "Voaria até o topo do mundo só pra ver o nascer do sol", "alias": "B" },
+        { "id": 3, "name": "Explodiria carros abandonados só pela adrenalina", "alias": "A" },
+        { "id": 4, "name": "Curaria todos os animais de um abrigo", "alias": "B" },
+        { "id": 5, "name": "Incendiaria uma floresta… artificial, relaxa!", "alias": "A" }
       ]
     },
     {
-      "id":2,
-      "question": "Quem você salvaria primeiro ?",
-      "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+      "id": 2,
+      "question": "Durante um ataque alienígena, quem recebe sua ajuda primeiro?",
+      "options": [
+        { "id": 1, "name": "As crianças presas em uma escola", "alias": "A" },
+        { "id": 2, "name": "Os idosos de um asilo atacado", "alias": "A" },
+        { "id": 3, "name": "Tentaria bolar um plano que salvasse todos ao mesmo tempo", "alias": "B" }
       ]
     },
     {
-      "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
-      "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+      "id": 3,
+      "question": "Durante uma batalha intensa no centro da cidade, o que te preocupa mais?",
+      "options": [
+        { "id": 1, "name": "Evitar que prédios desabem e feridos aumentem", "alias": "B" },
+        { "id": 2, "name": "Destruir o inimigo com um golpe cinematográfico", "alias": "A" },
+        { "id": 3, "name": "Proteger meu uniforme novo que custou caríssimo", "alias": "A" },
+        { "id": 4, "name": "Ajudar civis a escaparem antes de qualquer golpe", "alias": "B" }
       ]
     },
     {
-      "id":4,
-      "question": "Qual o seu maior foco ?",
-      "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+      "id": 4,
+      "question": "Depois da fama, qual é sua meta de vida como super ser?",
+      "options": [
+        { "id": 1, "name": "Abrir uma empresa de segurança… só que com chantagem!", "alias": "A" },
+        { "id": 2, "name": "Fundar uma ONG para ajudar vítimas de catástrofes", "alias": "B" }
       ]
     },
     {
-      "id":5,
-      "question": "Qual o seu apelido de super ser ?",
-      "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+      "id": 5,
+      "question": "Como você seria conhecido nas manchetes dos jornais?",
+      "options": [
+        { "id": 1, "name": "O Pesadelo da Humanidade", "alias": "A" },
+        { "id": 2, "name": "Guardião da Esperança", "alias": "B" }
       ]
     }
   ],
-  "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+  "results": {
+    "A": "Você seria um super vilão! Carismático, perigoso e com um gosto por caos. O mundo precisa se preparar…",
+    "B": "Você seria um verdadeiro herói! Sempre no lugar certo, com o coração no comando e a justiça como guia!"
   }
 }
